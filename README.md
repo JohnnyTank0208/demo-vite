@@ -1,2 +1,2 @@
 # demo-test
-This project is learn vite and js/ts.
+This project is first learn vite and js/ts.
